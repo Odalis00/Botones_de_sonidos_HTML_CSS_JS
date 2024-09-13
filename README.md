@@ -28,4 +28,4 @@ Este proyecto presenta seis botones, cada uno asociado con el sonido de un anima
 
 Aquí hay una captura de pantalla de cómo se ve la página:
 
-![Captura de Pantalla](URL_DE_LA_IMAGEN)
+![Captura de Pantalla](design/captura1.png)
