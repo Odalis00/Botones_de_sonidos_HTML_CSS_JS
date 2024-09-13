@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap");
+body {
+  font-family: "Cabin", sans-serif;
+}
+.btnprincipal {
+  display: grid;
+  place-items: center;
+  margin-top: 50px;
+}
+.btnprincipal h1 {
+  font-size: 5rem;
+  color: #fff;
+  text-shadow: 5px 5px 5px rgb(0, 0, 0, 0.4);
+  padding: 30px 30px;
+  background-color: rgb(245, 181, 96);
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px 4px rgb(0, 0, 0, 0.07);
+}
+button {
+  margin-right: 30px;
+  margin-bottom: 30px;
+  font-size: 3rem;
+  color: #fff;
+  border: none;
+  text-shadow: 5px 5px 5px rgb(0, 0, 0, 0.4);
+  padding: 30px 30px;
+  background-color: rgb(241, 229, 172);
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px 4px rgb(0, 0, 0, 0.07);
+  cursor: pointer;
+  transition: all 0.03 ease-in;
+}
+button:hover {
+  background-color: antiquewhite;
+}
+img {
+  height: 250px;
+  width: 250px;
+}
